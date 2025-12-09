@@ -212,4 +212,4 @@ Contributions are welcome! Please feel free to submit issues and enhancement req
 
 ---
 
-**EventHub** - Making event management simple, professional, and enjoyable.
+**EventHub** - Making event management simple, professional, and enjoyable.# event-mana
